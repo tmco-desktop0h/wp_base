@@ -1,0 +1,122 @@
+// baseScss
+// editor-style でも使用
+// font-familiy
+$font_main: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+$font_serif: "游明朝体", "YuMincho", "游明朝", "Yu Mincho", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN W3", HiraMinProN-W3, "ヒラギノ明朝 ProN", "Hiragino Mincho ProN", "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "HGS明朝E", serif;
+
+@font-face {
+  font-family: "Original Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Original Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Original Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Original Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Original Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold;
+}
+
+// en font利用時は下記をheadに記載
+// <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i" rel="stylesheet">
+// フォントサイズ
+$base_font_size: 16px;
+//$base_font_size_sp : 16px;
+
+// テキストカラー
+$text_color	: #333;
+
+// カラー
+$main_color		: #1D976C;
+$sub_color      : #fff;
+
+// アクセントカラー
+$accent_color1	: #00758e;
+$accent_color2 	: #c7c7c7;
+
+// サブカラー
+$yellow_color	: #ffff99;
+$gray_color		: #e7e7e7; 
+$beige_color	: #fff8eb;
+
+// リンクカラー
+$link_color		: #00F;
+
+// リンクホバーカラー
+$hover_color	: #F00;
+
+// SPメニュー
+// 背景カラー
+$common_menu_bgcolor_sp : #fff;
+
+// メニューリンクカラー
+$common_menu_textcolor_sp : #956144;
+
+// ブレークポイント
+$sp_width: 767px;
+$lp_width_min: 768px;
+$lp_width_max: 1024px;
+$pc_width: 1025px;
+
+// コンテナ幅
+$sp_container:  750px; // 720 + コンテナ余白
+$lp_container:  970px; // 940 + コンテナ余白
+$pc_container: 1170px; // 1140 + コンテナ余白
+
+// コンテナ左右余白
+$container_padding : 15px;
+
+// カラム間余白
+$column_padding: 30px;
+
+
+//@include flexColumn( カラム間幅,カラム数 )
+@mixin flexColumn($g:$column_padding, $num:2) {
+    flex-basis: calc( ( 100% - ( #{$g} * ( #{$num} - 1) ) ) / #{$num} );
+    max-width:  calc( ( 100% - ( #{$g} * ( #{$num} - 1) ) ) / #{$num} );
+}
+//after
+@mixin flexAfter( $g , $num ) {
+    &:after{
+        content:"";
+		display: block;
+		width: calc( ( 100% - ( #{$g} * ( #{$num} - 1) ) ) / #{$num} );
+    }
+}
+//after・before
+@mixin flexAfter2( $g , $num ) {
+    &:after{
+        width: calc( ( 100% - ( #{$g} * ( #{$num} - 1) ) ) / #{$num} );
+        content:"";
+        display: block;
+	}
+    &:before{
+        width: calc( ( 100% - ( #{$g} * ( #{$num} - 1) ) ) / #{$num} );
+        content:"";
+        display: block;
+        order:1;
+	}
+}
+@mixin flex2( $width, $padding ) {
+    &:nth-child(odd){
+        flex-basis: $width;
+        max-width: $width;
+    }
+    &:nth-child(even){
+        flex-basis: calc( 100% - #{$width} - #{$padding} );
+        max-width: calc( 100% - #{$width} - #{$padding} );
+    }
+}
