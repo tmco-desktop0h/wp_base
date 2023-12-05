@@ -300,19 +300,6 @@ function get_page_body2_script(){
     return $body2_script;
 };
 
-/* ---------------------- */
-/* ファビコン表示
-/* ---------------------- */
-
-function blog_favicon() {
-    if(get_field('favicon','option')){
-        $favicon = get_field('favicon','option');
-        echo '<link rel="icon" type="image/x-icon" href="'. $favicon.'">';
-        echo '<link rel="shortcut icon" type="image/x-icon" href="'. $favicon.'">';
-    }
-}
-add_action('wp_head', 'blog_favicon'); 
-
 
 /* -------------------------------------------- */
 /* ポストタイプ取得 */

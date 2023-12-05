@@ -76,56 +76,7 @@
 					<?php endif; ?>
 						<div class="footer_socials_networking">
 							
-							<ul>
-								<!---->
-								<?php if(have_rows('link_wrap','option')): ?>
-								<!---->
-								<li>
-									<?php while(have_rows('link_wrap','option')): the_row();
-									$instagram_url = get_sub_field('instagram_url');
-									 if (!empty($instagram_url)) : // $instagram_urlが空でない場合に表示
-									?>
-									<a href="<?php echo $instagram_url;?>">
-										<img src="<?php echo get_template_directory_uri(); ?>/images/home/instagram.svg" alt="instagram" width="30" height="30">
-									</a>
-									<?php
-										endif;
-									endwhile;
-									?>
-								</li>
-								<!---->
-								<!---->
-								<li>
-									<?php while(have_rows('link_wrap','option')): the_row();
-									$facebook_url = get_sub_field('facebook_url');
-									 if (!empty($facebook_url)) : // $facebook_urlが空でない場合に表示
-									?>
-									<a href="<?php echo $facebook_url;?>">
-										<img src="<?php echo get_template_directory_uri(); ?>/images/home/facebook.svg" alt="facebook" width="14" height="28">
-									</a>
-									<?php
-										endif;
-									endwhile;
-									?>
-								</li>
-								<!---->
-								<!---->
-								<li>
-									<?php while(have_rows('link_wrap','option')): the_row();
-									$youtube_url = get_sub_field('youtube_url');
-									 if (!empty($youtube_url)) : // $youtube_urlが空でない場合に表示
-									?>
-									<a href="<?php echo $youtube_url;?>">
-										<img src="<?php echo get_template_directory_uri(); ?>/images/home/youtube.svg" alt="youtube" width="35" height="35">
-									</a>
-									<?php
-										endif;
-									endwhile;
-									?>
-								</li>
-								<!---->
-								<?php endif; ?>
-							</ul>
+						<?php get_template_part( 'inc/inc_sns' ); ?>
 							
 						</div>
                 </div>

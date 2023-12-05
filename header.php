@@ -42,7 +42,7 @@
 		<div id="headerCnt">
 			<div id="logoArea">
 				<h1 id="logo">
-					<a href="<?php echo esc_url( home_url() ); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/common/logo.png" alt="<?php echo get_page_heading();?>" width="180" height="50">
+					<a href="<?php echo esc_url( home_url() ); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/common/logo.svg" alt="<?php echo get_page_heading();?>" width="180" height="50">
 					</a>
 				</h1>
             </div>
