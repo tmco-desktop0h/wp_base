@@ -76,7 +76,7 @@
 					<?php endif; ?>
 						<div class="footer_socials_networking">
 							
-						<?php get_template_part( 'inc/inc_sns' ); ?>
+						<?php get_template_part( 'inc/inc_snswrap' ); ?>
 							
 						</div>
                 </div>
