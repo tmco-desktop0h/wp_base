@@ -5,26 +5,6 @@ Description: クライアント用の情報に書き換えてください。
 Version: 1.0
 Tags: html5 css3(scss) javascript php mysql FontAwesome4.7.0
 */
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 100; }
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 200; }
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 300; }
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 400; }
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Bold");
-  font-weight: bold; }
 *, *:before, *:after {
   box-sizing: border-box; }
 
@@ -34,7 +14,7 @@ html {
     outline: none; }
 
 body {
-  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+  font-family: "M PLUS 1p", sans-serif;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.6;
@@ -46,9 +26,6 @@ main {
 
 address {
   font-style: normal; }
-
-.fontSerif {
-  font-family: "游明朝体", "YuMincho", "游明朝", "Yu Mincho", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN W3", HiraMinProN-W3, "ヒラギノ明朝 ProN", "Hiragino Mincho ProN", "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "HGS明朝E", serif; }
 
 .pc {
   display: block !important; }
@@ -757,14 +734,11 @@ img {
       #header #headerCnt #logoArea a {
         display: block;
         width: 100%;
-        background: #333333;
         height: 50px;
         max-width: 180px;
         font-size: 16px;
         text-align: center;
-        color: #FFFFFF;
-        text-decoration: none;
-        padding-top: 13px; }
+        text-decoration: none; }
         #header #headerCnt #logoArea a img {
           max-width: 240px;
           height: auto; }
@@ -2274,13 +2248,13 @@ img {
 .postPage .textRight {
   text-align: right; }
 .postPage code {
-  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif; }
+  font-family: "M PLUS 1p", sans-serif; }
 .postPage pre {
   overflow: auto;
   background: #efefef;
   padding: 15px;
   border-radius: 8px;
-  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif; }
+  font-family: "M PLUS 1p", sans-serif; }
 .postPage a {
   position: relative; }
   .postPage a:hover, .postPage a:focus {

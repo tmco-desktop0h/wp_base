@@ -7,11 +7,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" クロスオリジン>
-<link href="https: //fonts.googleapis.com/css2? family= Zen+Kaku+Gothic+New:wght@300;400;500;700;900 & display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500;700;800;900&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="<?php echo get_template_directory_uri(); ?>/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_template_directory_uri(); ?>/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_template_directory_uri(); ?>/images/favicon/favicon-16x16.png">
 <?php if ( is_404() ) : ?>
-<title>404エラー｜tmcoテンプレート</title>
-<meta name="description" content="">
+<title>404エラー｜ページが見つかりませんでした</title>
+<meta name="description" content="お探しのページは移動したか削除された可能性があります。">
 <?php else:?>
 <title><?php wp_title('|', true, 'right'); ?></title>
 <?php endif; ?>
@@ -20,10 +23,6 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <?php endif; ?>
 <link rel="alternate" type="application/rss+xml" href="<?php bloginfo('rss2_url'); ?>">
-<!--[if lt IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-<![endif]-->
 <?php wp_head();?>
 <?php echo get_page_head_script();?>
 </head>
@@ -43,9 +42,7 @@
 		<div id="headerCnt">
 			<div id="logoArea">
 				<h1 id="logo">
-					<a href="<?php echo esc_url( home_url() ); ?>">
-						ロゴ
-						<!--<img src="<?php echo get_template_directory_uri(); ?>/images/common/logo.png" alt="<?php echo get_page_heading();?>" width="180" height="50">-->
+					<a href="<?php echo esc_url( home_url() ); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/common/logo.png" alt="<?php echo get_page_heading();?>" width="180" height="50">
 					</a>
 				</h1>
             </div>

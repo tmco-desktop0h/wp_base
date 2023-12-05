@@ -1,37 +1,8 @@
 // baseScss
 // editor-style でも使用
 // font-familiy
-$font_main: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-$font_serif: "游明朝体", "YuMincho", "游明朝", "Yu Mincho", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN W3", HiraMinProN-W3, "ヒラギノ明朝 ProN", "Hiragino Mincho ProN", "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "HGS明朝E", serif;
-
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 100;
-}
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 200;
-}
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 300;
-}
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Medium");
-  font-weight: 400;
-}
-@font-face {
-  font-family: "Original Yu Gothic";
-  src: local("Yu Gothic Bold");
-  font-weight: bold;
-}
-
-// en font利用時は下記をheadに記載
-// <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i" rel="stylesheet">
+$font_main:'M PLUS 1p', sans-serif;
+$font_roboto:'Roboto', sans-serif;
 // フォントサイズ
 $base_font_size: 16px;
 //$base_font_size_sp : 16px;

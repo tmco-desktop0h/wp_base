@@ -51,7 +51,7 @@ if (!is_admin()) { //登録
         wp_enqueue_style( 'main-style', get_stylesheet_uri(), array(), NULL , 'all' );
 
         //js
-        wp_enqueue_script( 'swiperJs', $dir . '/js/swiper.min.js', array('jquery'), NULL , true); //スライダー
+        wp_enqueue_script( 'swiperJs', $dir . '/js/swiper-bundle.min.js', array('jquery'), NULL , true); //スライダー
         wp_enqueue_script( 'commonjs', $dir . '/js/common.js', array('jquery'), NULL , true );
     }
     add_action( 'wp_enqueue_scripts', 'my_scripts' );
@@ -110,7 +110,7 @@ add_theme_support( 'post-thumbnails' );
 /* ショートコード　ファイルインクルード　[myphp file="file-name"]
 /* 投稿画面で外部PHPを読み込む場合は有効化
 /* ---------------------- */
-/*function Include_my_php($params = array()) {
+function Include_my_php($params = array()) {
     extract(shortcode_atts(array(
         'file' => 'default'
     ), $params));
@@ -119,7 +119,7 @@ add_theme_support( 'post-thumbnails' );
     return ob_get_clean();
 }  
 
-add_shortcode('myphp', 'Include_my_php');*/
+add_shortcode('myphp', 'Include_my_php');
 /* ------------------------------------------- */
 /* メニュー登録 */
 /* ------------------------------------------- */
@@ -200,7 +200,7 @@ if( function_exists('acf_add_options_page') ) {
 /* ログインロゴ変更 */
 /* ---------------------- */
 function custom_login_logo() { 
-	echo '<style type="text/css">h1 a { background: url('.get_bloginfo('template_directory').'/images/common/login.png) 50% 50% no-repeat !important; width:320px !important; height: 53px !important;}</style>'; 
+	echo '<style type="text/css">h1 a { background: url('.get_bloginfo('template_directory').'/images/common/login.svg) 50% 50% no-repeat !important; width:320px !important; height: 53px !important;}</style>'; 
 } 
 add_action('login_head', 'custom_login_logo');
 
@@ -666,16 +666,3 @@ if (is_admin()) {
 }
 add_filter('pre_get_posts', 'set_post_types_admin_order');
 
-/* ---------------------- */
-/* 【wordpress】投稿・固定ページ内にPHPファイルをインクルード(挿入/実行)させる */
-/* ---------------------- */
-function Include_my_php($params = array()) {
-    extract(shortcode_atts(array(
-        'file' => 'default'
-    ), $params));
-    ob_start();
-    include(get_theme_root() . '/' . get_template() . "/$file.php");
-    return ob_get_clean();
-}
- 
-add_shortcode('myphp', 'Include_my_php');
