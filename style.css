@@ -34,6 +34,9 @@ address {
   display: none !important; }
 
 @media screen and (max-width: 767px) {
+  body {
+    font-family: 14px; }
+
   .pc {
     display: none !important; }
 

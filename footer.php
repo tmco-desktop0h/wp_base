@@ -42,6 +42,28 @@
                             </nav>
                         </div>
                     <?php endif;?>
+
+
+                    <?php if( has_nav_menu( 'footer-menu3') ):?>
+
+                        <div class="naviBox">
+                            <nav class="footerNavi">
+                                <?php wp_nav_menu( array( 'theme_location' => 'footer-menu3','items_wrap' => '<ul>%3$s</ul>', 'container' => false ) );?>
+
+                            </nav>
+                        </div>
+                    <?php endif;?>
+
+
+                    <?php if( has_nav_menu( 'footer-menu4') ):?>
+
+                        <div class="naviBox">
+                            <nav class="footerNavi">
+                                <?php wp_nav_menu( array( 'theme_location' => 'footer-menu4','items_wrap' => '<ul>%3$s</ul>', 'container' => false ) );?>
+
+                            </nav>
+                        </div>
+                    <?php endif;?>
                 </div>
 				 <div id="footerCnt">
            			<p class="f_time">受付時間 / 平日 10：00〜16：00(土日祝休み)</p>

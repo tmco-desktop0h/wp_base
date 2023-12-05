@@ -128,6 +128,7 @@ register_nav_menu( 'global-menu-sp','グローバルメニューSP');
 register_nav_menu( 'footer-menu1','フッターメニュー1');
 register_nav_menu( 'footer-menu2','フッターメニュー2');
 register_nav_menu( 'footer-menu3','フッターメニュー3');
+register_nav_menu( 'footer-menu4','フッターメニュー4');
 
 /* ---------------------- */
 /* メニューID削除 */

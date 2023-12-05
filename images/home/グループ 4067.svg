@@ -1,0 +1,998 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326.113" height="246.211" viewBox="0 0 326.113 246.211">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="楕円形_461" data-name="楕円形 461" cx="40" cy="39.5" rx="40" ry="39.5" transform="translate(-0.175 0.303)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="88.66" height="86.812" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="楕円形_1231" data-name="楕円形 1231" cx="40" cy="40" r="40" transform="translate(-0.299 -0.355)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <circle id="楕円形_1353" data-name="楕円形 1353" cx="39.5" cy="39.5" r="39.5" transform="translate(0.424 0.227)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_4067" data-name="グループ 4067" transform="translate(-791.887 -538.645)">
+    <g id="マスクグループ_14" data-name="マスクグループ 14" transform="translate(850.174 607.342)" clip-path="url(#clip-path)">
+      <g id="リピートグリッド_10" data-name="リピートグリッド 10" transform="translate(38.136 -22.327) rotate(45)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-829 -626)">
+          <circle id="楕円形_138" data-name="楕円形 138" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -626)">
+          <circle id="楕円形_139" data-name="楕円形 139" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -626)">
+          <circle id="楕円形_140" data-name="楕円形 140" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -626)">
+          <circle id="楕円形_141" data-name="楕円形 141" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -626)">
+          <circle id="楕円形_142" data-name="楕円形 142" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -626)">
+          <circle id="楕円形_143" data-name="楕円形 143" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -626)">
+          <circle id="楕円形_144" data-name="楕円形 144" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -626)">
+          <circle id="楕円形_145" data-name="楕円形 145" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -626)">
+          <circle id="楕円形_146" data-name="楕円形 146" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -626)">
+          <circle id="楕円形_147" data-name="楕円形 147" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -617)">
+          <circle id="楕円形_157" data-name="楕円形 157" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -617)">
+          <circle id="楕円形_158" data-name="楕円形 158" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -617)">
+          <circle id="楕円形_159" data-name="楕円形 159" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -617)">
+          <circle id="楕円形_160" data-name="楕円形 160" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -617)">
+          <circle id="楕円形_161" data-name="楕円形 161" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -617)">
+          <circle id="楕円形_162" data-name="楕円形 162" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -617)">
+          <circle id="楕円形_163" data-name="楕円形 163" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -617)">
+          <circle id="楕円形_164" data-name="楕円形 164" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -617)">
+          <circle id="楕円形_165" data-name="楕円形 165" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -617)">
+          <circle id="楕円形_166" data-name="楕円形 166" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -608)">
+          <circle id="楕円形_176" data-name="楕円形 176" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -608)">
+          <circle id="楕円形_177" data-name="楕円形 177" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -608)">
+          <circle id="楕円形_178" data-name="楕円形 178" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -608)">
+          <circle id="楕円形_179" data-name="楕円形 179" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -608)">
+          <circle id="楕円形_180" data-name="楕円形 180" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -608)">
+          <circle id="楕円形_181" data-name="楕円形 181" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -608)">
+          <circle id="楕円形_182" data-name="楕円形 182" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -608)">
+          <circle id="楕円形_183" data-name="楕円形 183" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -608)">
+          <circle id="楕円形_184" data-name="楕円形 184" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -608)">
+          <circle id="楕円形_185" data-name="楕円形 185" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -599)">
+          <circle id="楕円形_195" data-name="楕円形 195" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -599)">
+          <circle id="楕円形_196" data-name="楕円形 196" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -599)">
+          <circle id="楕円形_197" data-name="楕円形 197" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -599)">
+          <circle id="楕円形_198" data-name="楕円形 198" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -599)">
+          <circle id="楕円形_199" data-name="楕円形 199" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -599)">
+          <circle id="楕円形_200" data-name="楕円形 200" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -599)">
+          <circle id="楕円形_201" data-name="楕円形 201" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -599)">
+          <circle id="楕円形_202" data-name="楕円形 202" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -599)">
+          <circle id="楕円形_203" data-name="楕円形 203" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -599)">
+          <circle id="楕円形_204" data-name="楕円形 204" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -590)">
+          <circle id="楕円形_214" data-name="楕円形 214" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -590)">
+          <circle id="楕円形_215" data-name="楕円形 215" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -590)">
+          <circle id="楕円形_216" data-name="楕円形 216" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -590)">
+          <circle id="楕円形_217" data-name="楕円形 217" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -590)">
+          <circle id="楕円形_218" data-name="楕円形 218" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -590)">
+          <circle id="楕円形_219" data-name="楕円形 219" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -590)">
+          <circle id="楕円形_220" data-name="楕円形 220" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -590)">
+          <circle id="楕円形_221" data-name="楕円形 221" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -590)">
+          <circle id="楕円形_222" data-name="楕円形 222" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -590)">
+          <circle id="楕円形_223" data-name="楕円形 223" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -581)">
+          <circle id="楕円形_233" data-name="楕円形 233" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -581)">
+          <circle id="楕円形_234" data-name="楕円形 234" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -581)">
+          <circle id="楕円形_235" data-name="楕円形 235" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -581)">
+          <circle id="楕円形_236" data-name="楕円形 236" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -581)">
+          <circle id="楕円形_237" data-name="楕円形 237" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -581)">
+          <circle id="楕円形_238" data-name="楕円形 238" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -581)">
+          <circle id="楕円形_239" data-name="楕円形 239" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -581)">
+          <circle id="楕円形_240" data-name="楕円形 240" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -581)">
+          <circle id="楕円形_241" data-name="楕円形 241" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -581)">
+          <circle id="楕円形_242" data-name="楕円形 242" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -572)">
+          <circle id="楕円形_252" data-name="楕円形 252" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -572)">
+          <circle id="楕円形_253" data-name="楕円形 253" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -572)">
+          <circle id="楕円形_254" data-name="楕円形 254" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -572)">
+          <circle id="楕円形_255" data-name="楕円形 255" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -572)">
+          <circle id="楕円形_256" data-name="楕円形 256" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -572)">
+          <circle id="楕円形_257" data-name="楕円形 257" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -572)">
+          <circle id="楕円形_258" data-name="楕円形 258" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -572)">
+          <circle id="楕円形_259" data-name="楕円形 259" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -572)">
+          <circle id="楕円形_260" data-name="楕円形 260" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -572)">
+          <circle id="楕円形_261" data-name="楕円形 261" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -563)">
+          <circle id="楕円形_271" data-name="楕円形 271" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -563)">
+          <circle id="楕円形_272" data-name="楕円形 272" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -563)">
+          <circle id="楕円形_273" data-name="楕円形 273" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -563)">
+          <circle id="楕円形_274" data-name="楕円形 274" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -563)">
+          <circle id="楕円形_275" data-name="楕円形 275" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -563)">
+          <circle id="楕円形_276" data-name="楕円形 276" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -563)">
+          <circle id="楕円形_277" data-name="楕円形 277" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -563)">
+          <circle id="楕円形_278" data-name="楕円形 278" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -563)">
+          <circle id="楕円形_279" data-name="楕円形 279" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -563)">
+          <circle id="楕円形_280" data-name="楕円形 280" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -554)">
+          <circle id="楕円形_290" data-name="楕円形 290" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -554)">
+          <circle id="楕円形_291" data-name="楕円形 291" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -554)">
+          <circle id="楕円形_292" data-name="楕円形 292" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -554)">
+          <circle id="楕円形_293" data-name="楕円形 293" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -554)">
+          <circle id="楕円形_294" data-name="楕円形 294" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -554)">
+          <circle id="楕円形_295" data-name="楕円形 295" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -554)">
+          <circle id="楕円形_296" data-name="楕円形 296" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -554)">
+          <circle id="楕円形_297" data-name="楕円形 297" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -554)">
+          <circle id="楕円形_298" data-name="楕円形 298" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -554)">
+          <circle id="楕円形_299" data-name="楕円形 299" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -545)">
+          <circle id="楕円形_309" data-name="楕円形 309" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -545)">
+          <circle id="楕円形_310" data-name="楕円形 310" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -545)">
+          <circle id="楕円形_311" data-name="楕円形 311" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -545)">
+          <circle id="楕円形_312" data-name="楕円形 312" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -545)">
+          <circle id="楕円形_313" data-name="楕円形 313" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -545)">
+          <circle id="楕円形_314" data-name="楕円形 314" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -545)">
+          <circle id="楕円形_315" data-name="楕円形 315" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -545)">
+          <circle id="楕円形_316" data-name="楕円形 316" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -545)">
+          <circle id="楕円形_317" data-name="楕円形 317" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -545)">
+          <circle id="楕円形_318" data-name="楕円形 318" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="マスクグループ_17" data-name="マスクグループ 17" transform="translate(945.298 539)" clip-path="url(#clip-path-3)">
+      <g id="リピートグリッド_14" data-name="リピートグリッド 14" transform="translate(38.136 -22.327) rotate(45)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-829 -626)">
+          <circle id="楕円形_1110" data-name="楕円形 1110" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -626)">
+          <circle id="楕円形_1111" data-name="楕円形 1111" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -626)">
+          <circle id="楕円形_1112" data-name="楕円形 1112" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -626)">
+          <circle id="楕円形_1113" data-name="楕円形 1113" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -626)">
+          <circle id="楕円形_1114" data-name="楕円形 1114" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -626)">
+          <circle id="楕円形_1115" data-name="楕円形 1115" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -626)">
+          <circle id="楕円形_1116" data-name="楕円形 1116" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -626)">
+          <circle id="楕円形_1117" data-name="楕円形 1117" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -626)">
+          <circle id="楕円形_1118" data-name="楕円形 1118" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -626)">
+          <circle id="楕円形_1119" data-name="楕円形 1119" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -617)">
+          <circle id="楕円形_1121" data-name="楕円形 1121" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -617)">
+          <circle id="楕円形_1122" data-name="楕円形 1122" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -617)">
+          <circle id="楕円形_1123" data-name="楕円形 1123" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -617)">
+          <circle id="楕円形_1124" data-name="楕円形 1124" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -617)">
+          <circle id="楕円形_1125" data-name="楕円形 1125" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -617)">
+          <circle id="楕円形_1126" data-name="楕円形 1126" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -617)">
+          <circle id="楕円形_1127" data-name="楕円形 1127" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -617)">
+          <circle id="楕円形_1128" data-name="楕円形 1128" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -617)">
+          <circle id="楕円形_1129" data-name="楕円形 1129" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -617)">
+          <circle id="楕円形_1130" data-name="楕円形 1130" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -608)">
+          <circle id="楕円形_1132" data-name="楕円形 1132" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -608)">
+          <circle id="楕円形_1133" data-name="楕円形 1133" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -608)">
+          <circle id="楕円形_1134" data-name="楕円形 1134" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -608)">
+          <circle id="楕円形_1135" data-name="楕円形 1135" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -608)">
+          <circle id="楕円形_1136" data-name="楕円形 1136" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -608)">
+          <circle id="楕円形_1137" data-name="楕円形 1137" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -608)">
+          <circle id="楕円形_1138" data-name="楕円形 1138" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -608)">
+          <circle id="楕円形_1139" data-name="楕円形 1139" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -608)">
+          <circle id="楕円形_1140" data-name="楕円形 1140" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -608)">
+          <circle id="楕円形_1141" data-name="楕円形 1141" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -599)">
+          <circle id="楕円形_1143" data-name="楕円形 1143" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -599)">
+          <circle id="楕円形_1144" data-name="楕円形 1144" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -599)">
+          <circle id="楕円形_1145" data-name="楕円形 1145" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -599)">
+          <circle id="楕円形_1146" data-name="楕円形 1146" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -599)">
+          <circle id="楕円形_1147" data-name="楕円形 1147" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -599)">
+          <circle id="楕円形_1148" data-name="楕円形 1148" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -599)">
+          <circle id="楕円形_1149" data-name="楕円形 1149" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -599)">
+          <circle id="楕円形_1150" data-name="楕円形 1150" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -599)">
+          <circle id="楕円形_1151" data-name="楕円形 1151" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -599)">
+          <circle id="楕円形_1152" data-name="楕円形 1152" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -590)">
+          <circle id="楕円形_1154" data-name="楕円形 1154" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -590)">
+          <circle id="楕円形_1155" data-name="楕円形 1155" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -590)">
+          <circle id="楕円形_1156" data-name="楕円形 1156" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -590)">
+          <circle id="楕円形_1157" data-name="楕円形 1157" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -590)">
+          <circle id="楕円形_1158" data-name="楕円形 1158" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -590)">
+          <circle id="楕円形_1159" data-name="楕円形 1159" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -590)">
+          <circle id="楕円形_1160" data-name="楕円形 1160" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -590)">
+          <circle id="楕円形_1161" data-name="楕円形 1161" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -590)">
+          <circle id="楕円形_1162" data-name="楕円形 1162" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -590)">
+          <circle id="楕円形_1163" data-name="楕円形 1163" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -581)">
+          <circle id="楕円形_1165" data-name="楕円形 1165" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -581)">
+          <circle id="楕円形_1166" data-name="楕円形 1166" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -581)">
+          <circle id="楕円形_1167" data-name="楕円形 1167" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -581)">
+          <circle id="楕円形_1168" data-name="楕円形 1168" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -581)">
+          <circle id="楕円形_1169" data-name="楕円形 1169" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -581)">
+          <circle id="楕円形_1170" data-name="楕円形 1170" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -581)">
+          <circle id="楕円形_1171" data-name="楕円形 1171" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -581)">
+          <circle id="楕円形_1172" data-name="楕円形 1172" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -581)">
+          <circle id="楕円形_1173" data-name="楕円形 1173" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -581)">
+          <circle id="楕円形_1174" data-name="楕円形 1174" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -572)">
+          <circle id="楕円形_1176" data-name="楕円形 1176" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -572)">
+          <circle id="楕円形_1177" data-name="楕円形 1177" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -572)">
+          <circle id="楕円形_1178" data-name="楕円形 1178" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -572)">
+          <circle id="楕円形_1179" data-name="楕円形 1179" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -572)">
+          <circle id="楕円形_1180" data-name="楕円形 1180" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -572)">
+          <circle id="楕円形_1181" data-name="楕円形 1181" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -572)">
+          <circle id="楕円形_1182" data-name="楕円形 1182" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -572)">
+          <circle id="楕円形_1183" data-name="楕円形 1183" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -572)">
+          <circle id="楕円形_1184" data-name="楕円形 1184" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -572)">
+          <circle id="楕円形_1185" data-name="楕円形 1185" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -563)">
+          <circle id="楕円形_1187" data-name="楕円形 1187" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -563)">
+          <circle id="楕円形_1188" data-name="楕円形 1188" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -563)">
+          <circle id="楕円形_1189" data-name="楕円形 1189" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -563)">
+          <circle id="楕円形_1190" data-name="楕円形 1190" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -563)">
+          <circle id="楕円形_1191" data-name="楕円形 1191" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -563)">
+          <circle id="楕円形_1192" data-name="楕円形 1192" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -563)">
+          <circle id="楕円形_1193" data-name="楕円形 1193" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -563)">
+          <circle id="楕円形_1194" data-name="楕円形 1194" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -563)">
+          <circle id="楕円形_1195" data-name="楕円形 1195" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -563)">
+          <circle id="楕円形_1196" data-name="楕円形 1196" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -554)">
+          <circle id="楕円形_1198" data-name="楕円形 1198" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -554)">
+          <circle id="楕円形_1199" data-name="楕円形 1199" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -554)">
+          <circle id="楕円形_1200" data-name="楕円形 1200" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -554)">
+          <circle id="楕円形_1201" data-name="楕円形 1201" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -554)">
+          <circle id="楕円形_1202" data-name="楕円形 1202" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -554)">
+          <circle id="楕円形_1203" data-name="楕円形 1203" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -554)">
+          <circle id="楕円形_1204" data-name="楕円形 1204" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -554)">
+          <circle id="楕円形_1205" data-name="楕円形 1205" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -554)">
+          <circle id="楕円形_1206" data-name="楕円形 1206" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -554)">
+          <circle id="楕円形_1207" data-name="楕円形 1207" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -545)">
+          <circle id="楕円形_1209" data-name="楕円形 1209" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -545)">
+          <circle id="楕円形_1210" data-name="楕円形 1210" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -545)">
+          <circle id="楕円形_1211" data-name="楕円形 1211" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -545)">
+          <circle id="楕円形_1212" data-name="楕円形 1212" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -545)">
+          <circle id="楕円形_1213" data-name="楕円形 1213" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -545)">
+          <circle id="楕円形_1214" data-name="楕円形 1214" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -545)">
+          <circle id="楕円形_1215" data-name="楕円形 1215" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -545)">
+          <circle id="楕円形_1216" data-name="楕円形 1216" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -545)">
+          <circle id="楕円形_1217" data-name="楕円形 1217" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -545)">
+          <circle id="楕円形_1218" data-name="楕円形 1218" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="マスクグループ_18" data-name="マスクグループ 18" transform="translate(1038.575 606.418)" clip-path="url(#clip-path-5)">
+      <g id="リピートグリッド_15" data-name="リピートグリッド 15" transform="translate(38.136 -22.327) rotate(45)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-829 -626)">
+          <circle id="楕円形_1232" data-name="楕円形 1232" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -626)">
+          <circle id="楕円形_1233" data-name="楕円形 1233" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -626)">
+          <circle id="楕円形_1234" data-name="楕円形 1234" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -626)">
+          <circle id="楕円形_1235" data-name="楕円形 1235" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -626)">
+          <circle id="楕円形_1236" data-name="楕円形 1236" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -626)">
+          <circle id="楕円形_1237" data-name="楕円形 1237" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -626)">
+          <circle id="楕円形_1238" data-name="楕円形 1238" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -626)">
+          <circle id="楕円形_1239" data-name="楕円形 1239" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -626)">
+          <circle id="楕円形_1240" data-name="楕円形 1240" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -626)">
+          <circle id="楕円形_1241" data-name="楕円形 1241" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -617)">
+          <circle id="楕円形_1243" data-name="楕円形 1243" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -617)">
+          <circle id="楕円形_1244" data-name="楕円形 1244" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -617)">
+          <circle id="楕円形_1245" data-name="楕円形 1245" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -617)">
+          <circle id="楕円形_1246" data-name="楕円形 1246" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -617)">
+          <circle id="楕円形_1247" data-name="楕円形 1247" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -617)">
+          <circle id="楕円形_1248" data-name="楕円形 1248" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -617)">
+          <circle id="楕円形_1249" data-name="楕円形 1249" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -617)">
+          <circle id="楕円形_1250" data-name="楕円形 1250" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -617)">
+          <circle id="楕円形_1251" data-name="楕円形 1251" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -617)">
+          <circle id="楕円形_1252" data-name="楕円形 1252" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -608)">
+          <circle id="楕円形_1254" data-name="楕円形 1254" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -608)">
+          <circle id="楕円形_1255" data-name="楕円形 1255" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -608)">
+          <circle id="楕円形_1256" data-name="楕円形 1256" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -608)">
+          <circle id="楕円形_1257" data-name="楕円形 1257" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -608)">
+          <circle id="楕円形_1258" data-name="楕円形 1258" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -608)">
+          <circle id="楕円形_1259" data-name="楕円形 1259" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -608)">
+          <circle id="楕円形_1260" data-name="楕円形 1260" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -608)">
+          <circle id="楕円形_1261" data-name="楕円形 1261" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -608)">
+          <circle id="楕円形_1262" data-name="楕円形 1262" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -608)">
+          <circle id="楕円形_1263" data-name="楕円形 1263" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -599)">
+          <circle id="楕円形_1265" data-name="楕円形 1265" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -599)">
+          <circle id="楕円形_1266" data-name="楕円形 1266" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -599)">
+          <circle id="楕円形_1267" data-name="楕円形 1267" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -599)">
+          <circle id="楕円形_1268" data-name="楕円形 1268" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -599)">
+          <circle id="楕円形_1269" data-name="楕円形 1269" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -599)">
+          <circle id="楕円形_1270" data-name="楕円形 1270" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -599)">
+          <circle id="楕円形_1271" data-name="楕円形 1271" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -599)">
+          <circle id="楕円形_1272" data-name="楕円形 1272" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -599)">
+          <circle id="楕円形_1273" data-name="楕円形 1273" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -599)">
+          <circle id="楕円形_1274" data-name="楕円形 1274" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -590)">
+          <circle id="楕円形_1276" data-name="楕円形 1276" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -590)">
+          <circle id="楕円形_1277" data-name="楕円形 1277" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -590)">
+          <circle id="楕円形_1278" data-name="楕円形 1278" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -590)">
+          <circle id="楕円形_1279" data-name="楕円形 1279" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -590)">
+          <circle id="楕円形_1280" data-name="楕円形 1280" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -590)">
+          <circle id="楕円形_1281" data-name="楕円形 1281" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -590)">
+          <circle id="楕円形_1282" data-name="楕円形 1282" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -590)">
+          <circle id="楕円形_1283" data-name="楕円形 1283" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -590)">
+          <circle id="楕円形_1284" data-name="楕円形 1284" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -590)">
+          <circle id="楕円形_1285" data-name="楕円形 1285" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -581)">
+          <circle id="楕円形_1287" data-name="楕円形 1287" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -581)">
+          <circle id="楕円形_1288" data-name="楕円形 1288" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -581)">
+          <circle id="楕円形_1289" data-name="楕円形 1289" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -581)">
+          <circle id="楕円形_1290" data-name="楕円形 1290" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -581)">
+          <circle id="楕円形_1291" data-name="楕円形 1291" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -581)">
+          <circle id="楕円形_1292" data-name="楕円形 1292" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -581)">
+          <circle id="楕円形_1293" data-name="楕円形 1293" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -581)">
+          <circle id="楕円形_1294" data-name="楕円形 1294" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -581)">
+          <circle id="楕円形_1295" data-name="楕円形 1295" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -581)">
+          <circle id="楕円形_1296" data-name="楕円形 1296" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -572)">
+          <circle id="楕円形_1298" data-name="楕円形 1298" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -572)">
+          <circle id="楕円形_1299" data-name="楕円形 1299" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -572)">
+          <circle id="楕円形_1300" data-name="楕円形 1300" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -572)">
+          <circle id="楕円形_1301" data-name="楕円形 1301" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -572)">
+          <circle id="楕円形_1302" data-name="楕円形 1302" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -572)">
+          <circle id="楕円形_1303" data-name="楕円形 1303" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -572)">
+          <circle id="楕円形_1304" data-name="楕円形 1304" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -572)">
+          <circle id="楕円形_1305" data-name="楕円形 1305" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -572)">
+          <circle id="楕円形_1306" data-name="楕円形 1306" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -572)">
+          <circle id="楕円形_1307" data-name="楕円形 1307" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -563)">
+          <circle id="楕円形_1309" data-name="楕円形 1309" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -563)">
+          <circle id="楕円形_1310" data-name="楕円形 1310" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -563)">
+          <circle id="楕円形_1311" data-name="楕円形 1311" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -563)">
+          <circle id="楕円形_1312" data-name="楕円形 1312" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -563)">
+          <circle id="楕円形_1313" data-name="楕円形 1313" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -563)">
+          <circle id="楕円形_1314" data-name="楕円形 1314" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -563)">
+          <circle id="楕円形_1315" data-name="楕円形 1315" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -563)">
+          <circle id="楕円形_1316" data-name="楕円形 1316" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -563)">
+          <circle id="楕円形_1317" data-name="楕円形 1317" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -563)">
+          <circle id="楕円形_1318" data-name="楕円形 1318" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -554)">
+          <circle id="楕円形_1320" data-name="楕円形 1320" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -554)">
+          <circle id="楕円形_1321" data-name="楕円形 1321" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -554)">
+          <circle id="楕円形_1322" data-name="楕円形 1322" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -554)">
+          <circle id="楕円形_1323" data-name="楕円形 1323" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -554)">
+          <circle id="楕円形_1324" data-name="楕円形 1324" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -554)">
+          <circle id="楕円形_1325" data-name="楕円形 1325" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -554)">
+          <circle id="楕円形_1326" data-name="楕円形 1326" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -554)">
+          <circle id="楕円形_1327" data-name="楕円形 1327" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -554)">
+          <circle id="楕円形_1328" data-name="楕円形 1328" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -554)">
+          <circle id="楕円形_1329" data-name="楕円形 1329" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-829 -545)">
+          <circle id="楕円形_1331" data-name="楕円形 1331" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-820 -545)">
+          <circle id="楕円形_1332" data-name="楕円形 1332" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-811 -545)">
+          <circle id="楕円形_1333" data-name="楕円形 1333" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-802 -545)">
+          <circle id="楕円形_1334" data-name="楕円形 1334" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-793 -545)">
+          <circle id="楕円形_1335" data-name="楕円形 1335" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-784 -545)">
+          <circle id="楕円形_1336" data-name="楕円形 1336" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-775 -545)">
+          <circle id="楕円形_1337" data-name="楕円形 1337" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-766 -545)">
+          <circle id="楕円形_1338" data-name="楕円形 1338" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-757 -545)">
+          <circle id="楕円形_1339" data-name="楕円形 1339" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+        <g transform="translate(-748 -545)">
+          <circle id="楕円形_1340" data-name="楕円形 1340" cx="2.5" cy="2.5" r="2.5" transform="translate(829 626)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="パス_12113" data-name="パス 12113" d="M276.14,270.255a15.608,15.608,0,1,1-15.608-15.608,15.608,15.608,0,0,1,15.608,15.608" transform="translate(629.228 367.439)" fill="#fff"/>
+    <path id="パス_12114" data-name="パス 12114" d="M244.043,320.091a15.608,15.608,0,1,1-15.608-15.608,15.608,15.608,0,0,1,15.608,15.608" transform="translate(650.828 333.901)" fill="#fff"/>
+    <path id="パス_12115" data-name="パス 12115" d="M308.8,320.091a15.608,15.608,0,1,1-15.608-15.608A15.608,15.608,0,0,1,308.8,320.091" transform="translate(607.251 333.901)" fill="#fff"/>
+    <path id="パス_12116" data-name="パス 12116" d="M258.714,284.909A16.509,16.509,0,1,1,275.2,267.372a.927.927,0,0,1-1.85.115,14.642,14.642,0,1,0-.737,5.6.927.927,0,1,1,1.757.594,16.456,16.456,0,0,1-14.618,11.195c-.348.022-.695.032-1.039.032" transform="translate(631.051 369.294)"/>
+    <path id="パス_12117" data-name="パス 12117" d="M226.619,336.434a16.508,16.508,0,0,1-16.5-16.17A16.6,16.6,0,0,1,217.91,305.9a.927.927,0,1,1,.98,1.573,14.736,14.736,0,0,0-6.914,12.75,14.655,14.655,0,1,0,29.3-.6,14.84,14.84,0,0,0-.165-1.926,14.635,14.635,0,0,0-14.788-12.425c-.365.008-.733.028-1.094.063a.927.927,0,0,1-.174-1.846c.406-.038.82-.062,1.23-.07a16.485,16.485,0,0,1,16.658,14,16.522,16.522,0,0,1-15.98,19.012c-.116,0-.232,0-.348,0" transform="translate(652.651 334.62)"/>
+    <path id="パス_12118" data-name="パス 12118" d="M290.9,336.435a16.553,16.553,0,0,1-16.469-15.346.927.927,0,0,1,1.849-.129,14.644,14.644,0,1,0,.809-5.953.927.927,0,1,1-1.746-.622A16.511,16.511,0,1,1,290.9,336.435" transform="translate(609.371 334.619)"/>
+    <path id="パス_12119" data-name="パス 12119" d="M284.7,276.327h-.639v2.893a1.2,1.2,0,0,1-.252.841.856.856,0,0,1-.657.27.838.838,0,0,1-.676-.283,1.251,1.251,0,0,1-.239-.829v-6.927a.958.958,0,0,1,1.117-1.118h2.966a9.044,9.044,0,0,1,1.05.052,2.663,2.663,0,0,1,.786.212,2.273,2.273,0,0,1,.749.51,2.228,2.228,0,0,1,.494.771,2.572,2.572,0,0,1,.169.93,2.248,2.248,0,0,1-.568,1.609,3.262,3.262,0,0,1-1.723.854,3.342,3.342,0,0,1,.927.761,7.764,7.764,0,0,1,.789,1.072,7.931,7.931,0,0,1,.54,1.025,2.025,2.025,0,0,1,.194.63.641.641,0,0,1-.114.353.792.792,0,0,1-.31.276.976.976,0,0,1-.455.1.887.887,0,0,1-.516-.144,1.387,1.387,0,0,1-.359-.365q-.151-.222-.408-.651l-.731-1.216a6.724,6.724,0,0,0-.7-1.019,1.737,1.737,0,0,0-.629-.479,2.171,2.171,0,0,0-.8-.129m1.044-3.783h-1.683v2.475H285.7a4.572,4.572,0,0,0,1.105-.113,1.294,1.294,0,0,0,.685-.387,1.113,1.113,0,0,0,.236-.752,1.163,1.163,0,0,0-.19-.66,1.15,1.15,0,0,0-.528-.427,3.8,3.8,0,0,0-1.259-.135" transform="translate(604.115 356.316)"/>
+    <path id="パス_12121" data-name="パス 12121" d="M240.752,352.223v1.725a1.809,1.809,0,0,1-.068.55.873.873,0,0,1-.249.372,2.324,2.324,0,0,1-.464.319,7.279,7.279,0,0,1-1.572.645,6.338,6.338,0,0,1-1.646.2,5.369,5.369,0,0,1-1.891-.319,3.985,3.985,0,0,1-1.455-.927,4.1,4.1,0,0,1-.924-1.474,5.512,5.512,0,0,1-.322-1.934,5.644,5.644,0,0,1,.313-1.922,3.949,3.949,0,0,1,.921-1.48,4.044,4.044,0,0,1,1.48-.93,5.675,5.675,0,0,1,1.977-.323,4.893,4.893,0,0,1,1.609.243,3.54,3.54,0,0,1,1.136.611,2.729,2.729,0,0,1,.657.78,1.582,1.582,0,0,1,.221.731.779.779,0,0,1-.255.586.854.854,0,0,1-.611.243.825.825,0,0,1-.377-.092.86.86,0,0,1-.3-.258,7.355,7.355,0,0,0-.571-.8,1.85,1.85,0,0,0-.63-.454,2.4,2.4,0,0,0-1.01-.184,2.791,2.791,0,0,0-1.13.218,2.335,2.335,0,0,0-.851.633A2.848,2.848,0,0,0,234.2,350a4.469,4.469,0,0,0-.187,1.332,3.654,3.654,0,0,0,.728,2.438,2.523,2.523,0,0,0,2.03.854,4.139,4.139,0,0,0,1.189-.166,6.028,6.028,0,0,0,1.127-.473v-1.462h-1.413a1.543,1.543,0,0,1-.771-.154.556.556,0,0,1-.261-.522.641.641,0,0,1,.218-.5.854.854,0,0,1,.593-.2h2.07a2.636,2.636,0,0,1,.645.068.729.729,0,0,1,.427.3,1.228,1.228,0,0,1,.163.7" transform="translate(637.817 305.473)"/>
+    <path id="パス_12123" data-name="パス 12123" d="M331.71,356.2h-2.751a1.137,1.137,0,0,1-.85-.268,1.2,1.2,0,0,1-.255-.85v-6.768a1.178,1.178,0,0,1,.261-.857,1.158,1.158,0,0,1,.844-.261h2.917a6.8,6.8,0,0,1,1.118.08,2.393,2.393,0,0,1,.847.307,2.235,2.235,0,0,1,.565.482,2.132,2.132,0,0,1,.374.645,2.159,2.159,0,0,1,.129.746,2.07,2.07,0,0,1-1.351,1.977,2.2,2.2,0,0,1,1.775,2.2,2.469,2.469,0,0,1-.387,1.36,2.321,2.321,0,0,1-1.044.894,3.734,3.734,0,0,1-.946.243,9.7,9.7,0,0,1-1.247.071m-2.033-7.634v2.327h1.67a3.363,3.363,0,0,0,1.053-.129,1.007,1.007,0,0,0,.568-.492,1.11,1.11,0,0,0,.153-.577.9.9,0,0,0-.485-.906,3.709,3.709,0,0,0-1.48-.224Zm1.9,3.635h-1.9v2.628h1.959q1.848,0,1.848-1.333a1.086,1.086,0,0,0-.479-.989,2.686,2.686,0,0,0-1.431-.307" transform="translate(573.42 305.157)"/>
+    <path id="パス_12111" data-name="パス 12111" d="M522.026,65.4h-5.213l-8.777,25.355-3.338.375v2.625h11.4V91.127l-4.126-.375,2.288-7.127h9.414l2.213,7.127-3.976.375v2.625h11.777V91.127l-3.038-.375ZM515.2,80.588l3.826-11.965,3.713,11.965Z" transform="translate(454.411 494.796)"/>
+    <path id="パス_12112" data-name="パス 12112" d="M618.116,109.2c-1.8,0-2.325-.638-2.325-2.663V99.3c0-4.238-2.55-6.489-7.276-6.489a13.6,13.6,0,0,0-6.976,2.138v4.613H604.5l.337-3.263a7.479,7.479,0,0,1,2.888-.563c2.776,0,4.013,1.2,4.013,3.976v1.163c-8.514.488-11.777,2.288-11.777,6.526,0,3.263,2.213,5.176,5.964,5.176a7.635,7.635,0,0,0,6.226-2.776c.45,1.538,1.725,2.4,3.788,2.4a9.118,9.118,0,0,0,3.076-.488v-2.588a6.7,6.7,0,0,1-.9.075m-6.376-1.65a5.244,5.244,0,0,1-4.464,2.1c-2.025,0-3.15-.938-3.15-2.663,0-2.213,2.288-3.263,7.614-3.45Z" transform="translate(390.302 476.349)"/>
+    <path id="パス_12125" data-name="パス 12125" d="M873.568,270.112c-1.285,6.254-3.344,22.378-2.295,28.445l8.047,9.936,5.853-1.886.277-.089,5.853-1.886.733-12.765c-2.681-5.521-13.766-17.417-18.469-21.756" transform="translate(207.916 357.031)" fill="#fff"/>
+    <path id="パス_12126" data-name="パス 12126" d="M877.226,307.415a1.019,1.019,0,0,1-.792-.378l-8.047-9.936a1.021,1.021,0,0,1-.213-.468c-1.071-6.192.958-22.289,2.3-28.824a1.02,1.02,0,0,1,1.69-.544c4.908,4.529,15.956,16.421,18.694,22.06a1.019,1.019,0,0,1,.1.5l-.733,12.765a1.02,1.02,0,0,1-.705.912l-11.983,3.861a1.022,1.022,0,0,1-.313.049m-7.084-11.387,7.436,9.182,10.653-3.432.677-11.8c-2.491-4.857-11.5-14.816-16.783-19.944-1.294,7.24-2.8,20.581-1.984,25.99" transform="translate(210.01 359.13)"/>
+    <path id="パス_12127" data-name="パス 12127" d="M895.1,323.1a2.472,2.472,0,1,1-3.111-1.6,2.472,2.472,0,0,1,3.111,1.6" transform="translate(194.934 322.528)" fill="#fff"/>
+    <path id="パス_12128" data-name="パス 12128" d="M890.653,325.25a3.494,3.494,0,1,1,1.068-.169,3.5,3.5,0,0,1-1.068.169m0-4.945a1.453,1.453,0,1,0,1.383,1.007,1.449,1.449,0,0,0-1.383-1.007" transform="translate(197.032 324.627)"/>
+    <rect id="長方形_23273" data-name="長方形 23273" width="12.59" height="6.492" transform="translate(1087.236 665.525) rotate(-17.858)" fill="#fff"/>
+    <path id="パス_12129" data-name="パス 12129" d="M896.364,384.626a1.02,1.02,0,0,1-.971-.707L893.4,377.74a1.02,1.02,0,0,1,.658-1.283l11.983-3.861a1.02,1.02,0,0,1,1.283.658l1.99,6.179a1.019,1.019,0,0,1-.658,1.283l-11.983,3.861a1.024,1.024,0,0,1-.313.049m-.707-6.541,1.365,4.238,10.042-3.235L905.7,374.85Z" transform="translate(192.863 288.097)"/>
+    <path id="パス_12130" data-name="パス 12130" d="M882.224,285.921a1.02,1.02,0,0,1-.97-.707l-5.441-16.888a1.02,1.02,0,1,1,1.941-.625l5.441,16.888a1.021,1.021,0,0,1-.971,1.333" transform="translate(204.701 359.13)"/>
+    <path id="パス_12131" data-name="パス 12131" d="M789.232,340.009a3.131,3.131,0,1,1-3.131-3.131,3.131,3.131,0,0,1,3.131,3.131" transform="translate(267.147 312.101)" fill="#fff"/>
+    <path id="パス_12132" data-name="パス 12132" d="M784,342.061a4.151,4.151,0,1,1,4.15-4.151,4.155,4.155,0,0,1-4.15,4.151m0-6.262a2.111,2.111,0,1,0,2.111,2.111A2.113,2.113,0,0,0,784,335.8" transform="translate(269.245 314.199)"/>
+    <path id="パス_12133" data-name="パス 12133" d="M791.55,282.181a1.02,1.02,0,0,1-1.018-.966,28.3,28.3,0,0,1,2.386-11.7c2.45-5.6,7.938-12.774,20.169-15.142a1.02,1.02,0,1,1,.388,2c-9.09,1.759-15.367,6.431-18.656,13.883a26.739,26.739,0,0,0-2.25,10.847,1.02,1.02,0,0,1-.967,1.069h-.052" transform="translate(262.064 367.632)"/>
+    <path id="パス_12134" data-name="パス 12134" d="M855.117,254.415a3.131,3.131,0,1,1-3.131-3.131,3.131,3.131,0,0,1,3.131,3.131" transform="translate(222.809 369.702)" fill="#fff"/>
+    <path id="パス_12135" data-name="パス 12135" d="M849.888,256.466a4.151,4.151,0,1,1,4.15-4.151,4.155,4.155,0,0,1-4.15,4.151m0-6.262A2.111,2.111,0,1,0,852,252.315a2.113,2.113,0,0,0-2.111-2.111" transform="translate(224.907 371.801)"/>
+    <g id="グループ_4068" data-name="グループ 4068" transform="translate(791.887 629.867)">
+      <path id="パス_12068" data-name="パス 12068" d="M219.883,694.737c0,4.69-9.717,4.718-21.7,4.718s-21.7-.028-21.7-4.718,9.717-8.493,21.7-8.493,21.7,3.8,21.7,8.493" transform="translate(-118.759 -552.875)" fill="#fff"/>
+      <path id="パス_12069" data-name="パス 12069" d="M195.7,698.181c-12.8,0-22.91,0-22.91-5.923,0-1.8,1.041-4.416,6-6.657a1.205,1.205,0,1,1,.992,2.2c-2.914,1.316-4.584,2.941-4.584,4.46,0,3.513,10.421,3.513,20.5,3.513s20.5,0,20.5-3.513c0-3.447-8.419-7.288-20.5-7.288a1.205,1.205,0,1,1,0-2.41c13.061,0,22.91,4.169,22.91,9.7,0,5.923-10.11,5.923-22.91,5.923" transform="translate(-116.279 -550.395)"/>
+      <path id="パス_12070" data-name="パス 12070" d="M257.859,668.158l-19.368-4.874a109.211,109.211,0,0,0-10.766-3.946,3.621,3.621,0,0,0-3.834,1.13L221.3,663.54l-5.586,4.628-1.1.982-3.058,1.316-5.644,1.539c-3.078,3.592,5.9,3.335,5.9,3.335a13.819,13.819,0,0,0,6.413-1.283l6.157-2.309h7.9a6.432,6.432,0,0,1,4.9,2.21c1.815,2.121-.481,2.279-.481,2.279-11.544-.128-13.468,1.539-13.468,1.539-4.233,3.976,8.85,4.489,8.85,4.489l11.288.257a47.855,47.855,0,0,0,15.264-3.592c2.694-5-.77-10.774-.77-10.774" transform="translate(-138.136 -534.66)" fill="#fff"/>
+      <path id="パス_12071" data-name="パス 12071" d="M240.881,681.248h-.027l-11.288-.256a42.722,42.722,0,0,1-4.656-.476c-3.608-.587-5.537-1.527-6.071-2.956-.268-.719-.3-1.846,1.079-3.141l.036-.033c.529-.458,3.1-1.94,14.049-1.835-.057-.081-.13-.177-.226-.289a5.214,5.214,0,0,0-3.98-1.789h-7.681l-5.9,2.212a15.005,15.005,0,0,1-6.917,1.38c-1.962.051-6.471-.077-7.5-2.241-.315-.659-.446-1.729.716-3.085a1.2,1.2,0,0,1,.6-.378l5.582-1.523,10.459-4.081a1.19,1.19,0,0,1,.167-.052l6.67-1.539a1.205,1.205,0,0,1,.542,2.349l-6.584,1.519-10.437,4.072a1.122,1.122,0,0,1-.121.04l-5.255,1.433a1.182,1.182,0,0,0-.13.241c.48.5,2.984.9,5.29.833a1.084,1.084,0,0,1,.126,0,12.692,12.692,0,0,0,5.784-1.16,1.162,1.162,0,0,1,.114-.049l6.157-2.309a1.207,1.207,0,0,1,.423-.076h7.9a7.62,7.62,0,0,1,5.811,2.631c.917,1.071,1.2,2.05.839,2.91a2.529,2.529,0,0,1-2.152,1.356c-.032,0-.064,0-.1,0-9.835-.11-12.359,1.086-12.7,1.276a1.6,1.6,0,0,0-.388.507c.411.653,3.779,1.648,8.527,1.836l11.224.255a46.9,46.9,0,0,0,14.4-3.323c1.652-3.542-.055-7.519-.7-8.8l-18.854-4.745a1.127,1.127,0,0,1-.181-.061,107.455,107.455,0,0,0-10.644-3.9,2.412,2.412,0,0,0-2.559.753l-2.588,3.073a1.205,1.205,0,0,1-1.844-1.553l2.588-3.073a4.825,4.825,0,0,1,5.109-1.505,110.019,110.019,0,0,1,10.8,3.953l19.276,4.851a1.2,1.2,0,0,1,.739.549c.156.26,3.782,6.423.8,11.966a1.207,1.207,0,0,1-.57.529,48.636,48.636,0,0,1-15.7,3.695h-.057m-19.307-5.078-.006.005-.04.039s.047-.044.046-.044" transform="translate(-135.652 -532.179)"/>
+      <path id="パス_12072" data-name="パス 12072" d="M357.816,673.631l12.7-.385s30.4,3.463,36.171,2.694l-1.539-30.4s-32.323,6.926-34.632,8.465l-13.853,1.154a51.351,51.351,0,0,1,1.154,18.47" transform="translate(-240.018 -525.483)"/>
+      <path id="パス_12073" data-name="パス 12073" d="M402.291,675.025c-8.964,0-32.02-2.6-33.808-2.8l-12.629.383a.969.969,0,0,1-.992-1.071,50.979,50.979,0,0,0-1.119-18.09.968.968,0,0,1,.847-1.242l13.653-1.138c3.606-1.748,29.435-7.333,34.709-8.464a.968.968,0,0,1,1.17.9l1.539,30.4a.969.969,0,0,1-.84,1.009,20.727,20.727,0,0,1-2.531.117m-33.768-4.739c.037,0,.073,0,.11.006.289.033,27.735,3.15,35.047,2.771l-1.434-28.328c-12.482,2.69-31.647,7.066-33.185,8.086a.981.981,0,0,1-.457.159l-12.708,1.059a54.074,54.074,0,0,1,1,16.6l11.6-.352h.029" transform="translate(-238.026 -523.491)" fill="#20110d"/>
+      <path id="パス_12074" data-name="パス 12074" d="M553.606,310.863c-.576-4.611-1.807-11.972-4.9-18.1a19.845,19.845,0,0,0-12.973-10.246,34.453,34.453,0,0,1-5.745-1.878c-4.84-2.229-14.247-4.708-28.6,3.292a14.44,14.44,0,0,1-3.2,1.582c-20.764,5.5-4.859,25.766-4.859,25.766l18.291,20.108,22.754,10.163s23.088-1.154,19.235-30.685" transform="translate(-328.068 -278.44)" fill="#00aeeb"/>
+      <path id="パス_12075" data-name="パス 12075" d="M559.024,424.154l17.464,21.724-31.234,34.646,2.1-15.223q.074-1.05.072-2.1a29.072,29.072,0,0,0-3.318-13.434l-5.065-6.417Z" transform="translate(-362.752 -376.499)" fill="#fff"/>
+      <path id="パス_12076" data-name="パス 12076" d="M520.905,352.23l-7.2-6.293c-7.87-14.015-16.629-21.361-20.306-24.037a2.556,2.556,0,0,0-3.516.5c-3.764,4.814-7.228,16.007-7.228,16.007-.083.122.245,2.136-3.743,6.236-.507.521-2.966,3.354-3.054,4.076a2.074,2.074,0,0,0,.831,2.2,2.021,2.021,0,0,0,.809.306c.774.172,2.509.858,1.361,3.477a3.248,3.248,0,0,0,.105,2.488,2.721,2.721,0,0,1,.114,1.729,4.152,4.152,0,0,0,.17,2.807,7.04,7.04,0,0,1,.653,2.107l.107.84a11.4,11.4,0,0,1-.156,4c-.355,1.543-.017,3.948,5.432,4.133l10.05.263c1.173.06,4.152,2.074,4.43,3.215l7.1-2.041,11.266-15.826c-.081-.275,2.941-5.956,2.777-6.191" transform="translate(-320.204 -307.359)" fill="#fff"/>
+      <path id="パス_12077" data-name="パス 12077" d="M591.655,389.182s.033-.493,1.415-1.9a5.42,5.42,0,0,1,2.885-1.47c1.8-.338,4.859-.306,6.051,2.8a10.8,10.8,0,0,1,.256,4.089c-.434,2.8-2.373,8-9.431,10.956Z" transform="translate(-398.158 -350.603)" fill="#fff"/>
+      <path id="パス_12078" data-name="パス 12078" d="M589.561,401.814a1.1,1.1,0,0,1,.588-1.438c6.955-2.916,8.45-8.042,8.77-10.111a9.937,9.937,0,0,0-.2-3.527c-.941-2.452-3.426-2.377-4.823-2.114a4.316,4.316,0,0,0-2.305,1.162,6.063,6.063,0,0,0-1.129,1.38c-.122.512-1.142.84-1.142.84s-1.063-.564-1.022-1.169.606-1.454,1.728-2.593a6.5,6.5,0,0,1,3.464-1.779c3.47-.655,6.191.65,7.28,3.485a11.636,11.636,0,0,1,.316,4.65c-.376,2.434-2.113,8.455-10.091,11.8a1.1,1.1,0,0,1-1.438-.588m.932-14.825h0m0,0h0m0,0h0" transform="translate(-395.901 -348.333)"/>
+      <path id="パス_12079" data-name="パス 12079" d="M509.313,475.352a1.1,1.1,0,0,0-1-.925l-15.083-.923a1.1,1.1,0,0,0-.176,2.19l14.36.865c.109.293.25.66.431,1.127l2.05-.791c-.26-.675-.508-1.315-.584-1.543" transform="translate(-331.126 -409.708)"/>
+      <path id="パス_12080" data-name="パス 12080" d="M473.258,387.084a1.1,1.1,0,0,1,.109-.1,59.32,59.32,0,0,0,5.29-5.349,1.088,1.088,0,1,1,1.608,1.466,68.757,68.757,0,0,1-5.475,5.533,1.017,1.017,0,0,0-.211.7,2.407,2.407,0,0,0,1.143,1.465l1.565,1.23a1.088,1.088,0,0,1-1.346,1.71l-1.511-1.189a4.313,4.313,0,0,1-2.021-3.051,3.226,3.226,0,0,1,.849-2.417" transform="translate(-317.904 -347.649)"/>
+      <path id="パス_12081" data-name="パス 12081" d="M483.31,437.661a1.1,1.1,0,0,0,.965-1.161l-.266-4.127a1.1,1.1,0,0,0-.019-.143l-.517-2.609.573-1.854a1.1,1.1,0,0,0-.042-.762l-.938-2.156a1.1,1.1,0,1,0-2.014.876l.775,1.784-.535,1.731a1.1,1.1,0,0,0-.028.538l.557,2.81.261,4.055a1.1,1.1,0,0,0,1.167,1.026l.061-.006" transform="translate(-323.666 -376.522)"/>
+      <path id="パス_12082" data-name="パス 12082" d="M591.991,404.909a1.1,1.1,0,0,0,.922-.774c1.708-5.682,3.165-6.243,3.44-6.3a.742.742,0,0,1,.621.279,1.089,1.089,0,0,0,1.532.209,1.107,1.107,0,0,0,.211-1.546,2.916,2.916,0,0,0-2.739-1.107c-2,.357-3.692,2.918-5.168,7.829a1.1,1.1,0,0,0,1.181,1.407" transform="translate(-397.557 -357.304)"/>
+      <path id="パス_12083" data-name="パス 12083" d="M516.141,377.674a1.346,1.346,0,0,1-1.954.653,1.8,1.8,0,0,1-.511-2.265,1.346,1.346,0,0,1,1.954-.653,1.8,1.8,0,0,1,.511,2.265" transform="translate(-345.55 -343.556)"/>
+      <path id="パス_12084" data-name="パス 12084" d="M586.094,437.576a2.474,2.474,0,1,1,2.749,2.163,2.474,2.474,0,0,1-2.749-2.163" transform="translate(-394.404 -383.67)" fill="#fff"/>
+      <path id="パス_12085" data-name="パス 12085" d="M582.929,435.564a3.511,3.511,0,1,1,3.9,3.071,3.515,3.515,0,0,1-3.9-3.071m2.06-.246a1.437,1.437,0,1,0,1.256-1.6,1.438,1.438,0,0,0-1.256,1.6" transform="translate(-392.269 -381.535)" fill="#21110d"/>
+      <path id="パス_12086" data-name="パス 12086" d="M495.815,349.1a1.145,1.145,0,0,1-1.5-1.11c.066-3.406,2.727-11.016,2.84-11.339a1.144,1.144,0,0,1,2.159.758c-.738,2.1-2.662,8.1-2.711,10.625a1.145,1.145,0,0,1-.788,1.066" transform="translate(-332.653 -317.096)"/>
+      <path id="パス_12087" data-name="パス 12087" d="M595.407,557.976a252.911,252.911,0,0,0-9.6-33.107A188.318,188.318,0,0,0,573.051,496.7c-5.794-10.22-12.126-18.377-18.822-24.242l-.041-.033c-.318-.248-8.733-5.12-24.219,11.941-.008.009-14.688,16.791-14.7,16.8-.69.5-7.08-1.831-6.037-3.149-1.558.072-8.858-1.831-12.774-1.983l-4.7,60.448a6.451,6.451,0,0,0,2.2,4.649c1.742,1.524,4.37,2.286,7.866,2.286,4.722,0,11.027-1.39,18.866-4.166l4.626-.2h69.208a.9.9,0,0,0,.883-1.076m-99.231-57.092-3.388,53.406c-.019,0-.038-.005-.057-.005a.893.893,0,0,0-.34.067Z" transform="translate(-330.933 -408.426)"/>
+      <path id="パス_12088" data-name="パス 12088" d="M519.044,451.517l3.753-6.1,11.73-9.384s8.47-8.146,8-13.307c0,0-4.717-4.522-8-4.522,0,0-1.538-5.494-7.038-.939,0,0-3.8-3.363-6.1,1.408,0,0-5.63-1.877-6.1,4.223l-1.408,7.977s-11.73,7.976-7.507,19.706l-1.985,13.4,14.667-.716Z" transform="translate(-339.433 -370.648)" fill="#fff"/>
+      <path id="パス_12089" data-name="パス 12089" d="M501.961,462.731a1.215,1.215,0,0,1-.174-.013,1.181,1.181,0,0,1-1-1.341l1.943-13.116c-1.732-5.081-.9-10.275,2.411-15.041a24.892,24.892,0,0,1,5.227-5.455l1.315-7.451a5.833,5.833,0,0,1,2.365-4.677,6.087,6.087,0,0,1,4.3-.743,4.7,4.7,0,0,1,3.053-2.312,5.118,5.118,0,0,1,3.624.78c1.879-1.359,3.595-1.809,5.109-1.335a4.822,4.822,0,0,1,2.785,2.633c3.493.556,7.512,4.323,7.991,4.782a1.183,1.183,0,0,1,.359.746c.506,5.565-7.45,13.391-8.359,14.265-.026.025-.053.049-.081.071l-11.57,9.256-3.471,5.64.013,11.415a1.181,1.181,0,0,1-1.18,1.182h0a1.181,1.181,0,0,1-1.181-1.18l-.014-11.75a1.182,1.182,0,0,1,.175-.62l3.754-6.1a1.18,1.18,0,0,1,.268-.3l11.687-9.35c2.184-2.112,7.531-8.1,7.619-11.887-1.463-1.32-4.728-3.874-6.839-3.874a1.181,1.181,0,0,1-1.137-.862c0-.008-.463-1.485-1.534-1.813-.881-.27-2.131.237-3.613,1.465a1.181,1.181,0,0,1-1.536-.025,3.3,3.3,0,0,0-2.413-.819c-.7.145-1.317.769-1.84,1.855a1.181,1.181,0,0,1-1.437.608,4.307,4.307,0,0,0-3.236.249,3.682,3.682,0,0,0-1.312,2.944c0,.038-.008.077-.014.114l-1.408,7.977a1.18,1.18,0,0,1-.5.771,22.306,22.306,0,0,0-5.072,5.211c-2.926,4.243-3.595,8.656-1.988,13.119a1.186,1.186,0,0,1,.057.573l-1.985,13.4a1.182,1.182,0,0,1-1.167,1.008" transform="translate(-337.002 -368.215)"/>
+      <path id="パス_12090" data-name="パス 12090" d="M591.242,433.865c-.033,0-.066,0-.1,0a1.181,1.181,0,0,1-1.079-1.275L591,421.325a1.181,1.181,0,1,1,2.354.2l-.939,11.261a1.181,1.181,0,0,1-1.175,1.083" transform="translate(-397.085 -373.867)"/>
+      <path id="パス_12091" data-name="パス 12091" d="M572.59,431.935a1.181,1.181,0,0,1-1.181-1.181v-12.2a1.181,1.181,0,1,1,2.362,0v12.2a1.181,1.181,0,0,1-1.181,1.181" transform="translate(-384.533 -371.937)"/>
+      <path id="パス_12092" data-name="パス 12092" d="M552.505,435.769h-.048a1.181,1.181,0,0,1-1.133-1.227l.469-11.73a1.181,1.181,0,1,1,2.36.095l-.469,11.73a1.18,1.18,0,0,1-1.179,1.134" transform="translate(-371.017 -374.833)"/>
+      <path id="パス_12093" data-name="パス 12093" d="M593.78,440.859a1.181,1.181,0,0,1-.9-1.946l2.088-2.456a1.181,1.181,0,0,1,1.8,1.53l-2.088,2.456a1.178,1.178,0,0,1-.9.416" transform="translate(-398.794 -384.499)"/>
+      <path id="パス_12094" data-name="パス 12094" d="M588.36,636.356a1.189,1.189,0,0,1-.758-2.1,234.4,234.4,0,0,0,40.315-43.631,1.189,1.189,0,0,1,1.972,1.328,236.926,236.926,0,0,1-40.772,44.135,1.184,1.184,0,0,1-.757.273" transform="translate(-395.14 -488.171)" fill="#c3c3c3"/>
+      <path id="パス_12095" data-name="パス 12095" d="M576.69,531.593a1.189,1.189,0,0,1-.942-1.914c.63-.819,1.248-1.663,1.838-2.51a64.432,64.432,0,0,0,5.395-9.325c7.36-15.628,12.869-19.3,13.1-19.444a1.189,1.189,0,0,1,1.293,2c-.082.055-5.268,3.652-12.242,18.461a66.768,66.768,0,0,1-5.595,9.671c-.612.878-1.252,1.754-1.9,2.6a1.186,1.186,0,0,1-.943.464" transform="translate(-387.288 -426.337)" fill="#c3c3c3"/>
+      <path id="パス_12096" data-name="パス 12096" d="M508.257,526.736s-14.285.446-18.1,2.354l-.954,14.787s-9.063,61.054,6.678,54.854L518.1,586.04Z" transform="translate(-327.465 -445.533)"/>
+      <path id="パス_12097" data-name="パス 12097" d="M491.9,598.224a4.878,4.878,0,0,1-3.107-1.106c-3.98-3.163-5.57-13.468-4.725-30.631.6-12.246,2.271-23.808,2.381-24.558l.951-14.75a.9.9,0,0,1,.5-.748c3.947-1.974,17.884-2.43,18.475-2.448a.892.892,0,0,1,.916.753l9.846,59.3a.9.9,0,0,1-.442.929l-22.223,12.69a.86.86,0,0,1-.117.056,6.7,6.7,0,0,1-2.453.509m-2.737-70.383-.918,14.24c0,.025,0,.05-.008.074-1.928,12.992-5.385,47.94,1.677,53.552a3.54,3.54,0,0,0,3.721.354l21.62-12.346-9.613-57.9c-4.2.167-13.2.766-16.479,2.03m-1.817,14.182h0Z" transform="translate(-325.611 -443.68)"/>
+      <path id="パス_12098" data-name="パス 12098" d="M496.852,435.613a6.2,6.2,0,0,1-1.474-.165,1.227,1.227,0,0,1,.623-2.373,3.8,3.8,0,0,0,2.836-.494,1.227,1.227,0,0,1,1.427,2,5.831,5.831,0,0,1-3.412,1.034" transform="translate(-332.754 -382.017)"/>
+      <path id="パス_12099" data-name="パス 12099" d="M578.572,324.275a1.227,1.227,0,0,1-1.185-.91c-4.679-17.485-14.666-22.775-14.766-22.826a1.227,1.227,0,0,1,1.119-2.184c.449.23,11.06,5.849,16.018,24.376a1.227,1.227,0,0,1-1.186,1.544" transform="translate(-378.17 -291.751)"/>
+      <path id="パス_12100" data-name="パス 12100" d="M498.859,319.412a1.226,1.226,0,0,1-1.071-1.819,7,7,0,0,1,8.988-3.1,1.227,1.227,0,1,1-.952,2.261,4.578,4.578,0,0,0-5.894,2.036,1.231,1.231,0,0,1-1.071.622" transform="translate(-334.886 -302.283)"/>
+      <path id="パス_12101" data-name="パス 12101" d="M484.828,682.635a1.13,1.13,0,0,1-1.022-.648c-2.28-4.821-2.346-22.714-2.348-23.474a1.13,1.13,0,0,1,1.127-1.133h0a1.13,1.13,0,0,1,1.13,1.128c.011,5.033.417,18.888,2.131,22.513a1.131,1.131,0,0,1-1.021,1.613" transform="translate(-324 -533.451)" fill="#c3c3c3"/>
+      <path id="パス_12102" data-name="パス 12102" d="M48.892,601.743H14.933A11.234,11.234,0,0,1,4.884,585.485l22.209-44.417a2.252,2.252,0,1,1,4.029,2.014L8.913,587.5a6.73,6.73,0,0,0,6.02,9.739h33.96a2.252,2.252,0,1,1,0,4.5" transform="translate(-2.482 -454.338)" fill="#e7e7e7"/>
+      <path id="パス_12103" data-name="パス 12103" d="M46.41,600.466H12.451a12.439,12.439,0,0,1-11.126-18l22.209-44.417a3.457,3.457,0,1,1,6.185,3.092L9.827,581.09a1.205,1.205,0,0,1-2.158-1.074l19.892-39.953a1.047,1.047,0,1,0-1.872-.938L3.48,583.542a10.03,10.03,0,0,0,8.971,14.514H46.41a1.047,1.047,0,1,0,0-2.094H12.451a7.935,7.935,0,0,1-7.1-11.484,1.205,1.205,0,0,1,2.156,1.078,5.525,5.525,0,0,0,4.942,8H46.41a3.457,3.457,0,1,1,0,6.915" transform="translate(0 -451.856)"/>
+      <path id="パス_12104" data-name="パス 12104" d="M76.3,443.136l-5.27,1.4A38.529,38.529,0,0,1,57.19,424.09L35.4,345a34.829,34.829,0,0,1,1.867-23.654l5.27-1.4Z" transform="translate(-22.982 -306.37)" fill="#e7e7e7"/>
+      <path id="パス_12105" data-name="パス 12105" d="M74.657,507.643a1.206,1.206,0,0,1-.729-.246,39.95,39.95,0,0,1-14.276-21.09L39.579,413.446a1.205,1.205,0,1,1,2.324-.64l20.072,72.861A37.538,37.538,0,0,0,74.922,505.12l3.522-.939-1.965-7.17a1.205,1.205,0,0,1,2.325-.637l2.286,8.341a1.2,1.2,0,0,1-.852,1.483l-5.27,1.4a1.2,1.2,0,0,1-.31.041" transform="translate(-26.606 -368.266)"/>
+      <path id="パス_12106" data-name="パス 12106" d="M69.9,427.527a1.205,1.205,0,0,1-1.162-.887L39.222,318.935l-3.557.948A33.687,33.687,0,0,0,34.092,342.2a1.205,1.205,0,0,1-2.324.64A36.1,36.1,0,0,1,33.7,318.369a1.207,1.207,0,0,1,.787-.666l5.27-1.4a1.206,1.206,0,0,1,1.473.846L71.066,426a1.206,1.206,0,0,1-1.163,1.524" transform="translate(-20.511 -303.889)" fill="#20110d"/>
+      <path id="パス_12107" data-name="パス 12107" d="M84.014,480.095a1.205,1.205,0,0,1-1.161-.886l-29.368-106.7a1.205,1.205,0,1,1,2.324-.639l29.368,106.7a1.206,1.206,0,0,1-1.163,1.525" transform="translate(-35.963 -340.718)"/>
+      <path id="パス_12109" data-name="パス 12109" d="M565.336,611.448a1.189,1.189,0,0,1-1.179-1.051L559.3,568.7a1.189,1.189,0,1,1,2.362-.275l4.858,41.7a1.19,1.19,0,0,1-1.182,1.326" transform="translate(-376.378 -472.879)" fill="#c3c3c3"/>
+      <path id="パス_12110" data-name="パス 12110" d="M559.383,519a1.135,1.135,0,0,1-.155-.011,1.1,1.1,0,0,1-.937-1.242,34.238,34.238,0,0,0-.955-11.347,1.1,1.1,0,1,1,2.142-.51,35.7,35.7,0,0,1,.993,12.162,1.1,1.1,0,0,1-1.089.948" transform="translate(-375.043 -430.934)"/>
+      <path id="パス_12136" data-name="パス 12136" d="M229.532,676.244a1.205,1.205,0,0,0-1.7,0,25.8,25.8,0,0,1-6.328,4.378,1.205,1.205,0,0,0,1.02,2.184,27.858,27.858,0,0,0,7.012-4.858,1.205,1.205,0,0,0,0-1.7" transform="translate(-148.591 -545.907)"/>
+    </g>
+  </g>
+</svg>

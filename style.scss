@@ -38,6 +38,9 @@ address {
 	display: none !important;
 }
 @media screen and (max-width: $sp_width) {
+    body {
+        font-family: 14px;
+    }
 	.pc{
 		display: none !important;
 	}
