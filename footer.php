@@ -8,12 +8,11 @@
     <footer id="footer">
 		<div class="container">
 			<div id="pagetopArea">
-				<a href="#header_top" id="pageTop" title="ページトップへ">Page Top</a>
+				<a href="#main" id="pageTop" title="ページトップへ">Page Top</a>
 			</div>
 			<div class="footer_section">
 				<a href="<?php echo esc_url( home_url() ); ?>" class="footer_Logo">
-					ロゴ
-					<!--<img src="<?php echo get_template_directory_uri(); ?>/images/common/logo.png" alt="<?php echo 	esc_html( bloginfo('name') );?>" width="120" height="40">-->
+					<img src="<?php echo get_template_directory_uri(); ?>/images/common/logo.svg" alt="<?php echo 	esc_html( bloginfo('name') );?>" width="120" height="40">
 				</a>
 				<p class="f_txt">DXに関するお困り事などお気軽にお問い合わせください。<br>オンラインによるご相談も可能です。</p>
 				<div class="btnWrap">
@@ -53,54 +52,27 @@
                             </nav>
                         </div>
                     <?php endif;?>
-
-
-                    <?php if( has_nav_menu( 'footer-menu4') ):?>
-
-                        <div class="naviBox">
-                            <nav class="footerNavi">
-                                <?php wp_nav_menu( array( 'theme_location' => 'footer-menu4','items_wrap' => '<ul>%3$s</ul>', 'container' => false ) );?>
-
-                            </nav>
-                        </div>
-                    <?php endif;?>
                 </div>
 				 <div id="footerCnt">
            			<p class="f_time">受付時間 / 平日 10：00〜16：00(土日祝休み)</p>
-								
-					<?php if(have_rows('common-information','option')): ?>
 					<!---tel--->
 					<div class="footer_tel">
-					<?php while(have_rows('common-information','option')): the_row();
-					$tel_number = get_sub_field('tel-number');
-						if (!empty($tel_number)) : // $tel_numberが空でない場合に表示
-					?>
-					<a href="tel:<?php echo $tel_number;?>"><?php echo $tel_number;?></a>
-					<?php
-						endif;
-						endwhile;
-					?>
+					<a href="tel:<?php the_field('tel-number', 'option'); ?>">TEL.<?php the_field('tel-number', 'option'); ?></a>
 					</div>
 					<!---tel--->
 					<!---adress--->
 					<div class="footer_adress">
-						<?php while(have_rows('common-information','option')): the_row();
-						$address = get_sub_field('address');
-						if (!empty($address)) : // $addressが空でない場合に表示
-						?>
-						<p class="fa_txt"><?php echo $address;?></p>
-						<?php
-							endif;
-							endwhile;
-						?>
+						<?php $address = get_field('address', 'option');
+                            if (!empty($address)) {
+                            echo '<address>' . $address . '</address>';
+                        } ?>
 					</div>
 					<!---adress--->
-					<?php endif; ?>
-						<div class="footer_socials_networking">
-							
-						<?php get_template_part( 'inc/inc_snswrap' ); ?>
-							
-						</div>
+                    <div class="footer_socials_networking">
+
+                    <?php get_template_part( 'inc/inc_snswrap' ); ?>
+
+                    </div>
                 </div>
 			</div>
 		</div>
@@ -110,6 +82,9 @@
 		
     </footer>
     <!-- /#footer -->
+    
+    <?php get_template_part( 'inc/inc_fixedbtn' ); ?>
+
 
 <?php wp_footer();?>
 <?php echo get_page_body2_script();?>
@@ -144,60 +119,6 @@
   });
 } )(jQuery);
 
-</script>
-<script>
-	var sliderfv = new Swiper('.top-fvSwiper', {
-    loop: true,
-    loopedSlides: 1000,
-    slidesPerView: 1.8,
-    slidesPerGroup: 1,
-    spaceBetween: 50,
-    autoplay:3000,
-	 speed: 3000,
-    centeredSlides: true,
-    breakpoints: {
-        1399: {
-            slidesPerView: 1.5,
-            slidesPerGroup: 1,
-            spaceBetween: 20
-
-        },
-        767: {
-            slidesPerView: 1.5,
-            slidesPerGroup: 1,
-            spaceBetween: 20
-        },
-        414: {
-            slidesPerView: 1.2,
-            slidesPerGroup: 1,
-            spaceBetween: 20
-        }
-    },
-	 navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev'
-    },
-	  pagination: { // 丸のページネーションを使うなら書く
-		  el: ".swiper-pagination",
-		   clickable: true //クリックを有効化する
-	  },
-    autoplay: {
-        delay: 6000,
-        stopOnLastSlide: false,
-        disableOnInteraction: false,
-        reverseDirection: false
-    },
-});
-</script>
-<script>
-jQuery(function ($) {
-  $(".js-accordion-title").on("click", function() {
-    $(".js-accordion-title").not(this).removeClass("open");
-    $(".js-accordion-title").not(this).next().slideUp(200);
-    $(this).toggleClass("open");
-    $(this).next().slideToggle(200);
-  });
-});
 </script>
 </body>
 </html>
