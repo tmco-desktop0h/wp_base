@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
-Theme Name: wordpress base
-Description: クライアント用の情報に書き換えてください。
+Theme Name: wordpress yamamoto-ihinseiri
+Description: 山本清掃　遺品整理サービス
 Version: 1.0
 Tags: html5 css3(scss) javascript php mysql FontAwesome4.7.0
 */
@@ -9,7 +9,9 @@ Tags: html5 css3(scss) javascript php mysql FontAwesome4.7.0
   box-sizing: border-box; }
 
 html {
-  font-size: 62.5%; }
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px; }
   html:focus {
     outline: none; }
 
